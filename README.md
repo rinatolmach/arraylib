@@ -70,3 +70,4 @@ cmake --build build --target variant_22
 - Минимум: 12
 - Среднее: 51.00
 - Количество значений выше 60: 4
+git add README.md
