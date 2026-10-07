@@ -1,0 +1,13 @@
+build/
+out/
+*.o
+*.a
+*.so
+*.dll
+*.lib
+*.exe
+/app
+.vscode/
+.idea/
+compile_commands.json
+/main
